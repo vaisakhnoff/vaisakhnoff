@@ -3,7 +3,7 @@
 
 ---
 
-🌐 **Portfolio:** [vaisakhnoff.github.io/personal](https://vaisakhnoff.github.io/personal)  
+🌐 **Portfolio:** https://vaisakhnoff.github.io/personal-portfolio/  
 📬 **Email:** vaisakhnofficial@gmail.com
 
 ---
